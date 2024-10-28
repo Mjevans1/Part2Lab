@@ -1,0 +1,12 @@
+<%@ Language="VBScript" %>
+<html>
+<head>
+    <title>BMI Calculator</title>
+</head>
+<body>
+<%
+    ' Output a thank you message for using the BMI Calculator
+    Response.Write("Thank you for using my BMI calculator!")
+%>
+</body>
+</html>
